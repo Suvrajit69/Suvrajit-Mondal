@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am MERN stack devloper & a tech enthusiast.<br>I am also interest in open source contributions.
+Hi, I am full(MERN/NEXT.JS) stack & React Native devloper & a tech enthusiast.
 
 
 ## 🌐 Socials:
