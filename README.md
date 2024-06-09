@@ -3,6 +3,7 @@ Hi, I am full(MERN/NEXT.JS) stack & React Native devloper & a tech enthusiast.
 
 
 ## 🌐 Socials:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://suvrajitmondal.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suvrajit-mondal-490130237/) 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/suvrajitx)
 # 💻 Tech Stack:
